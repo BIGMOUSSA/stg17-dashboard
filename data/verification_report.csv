@@ -1,415 +1,456 @@
 indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
-cpi_urban,GENERAL INDEX,Weights,100.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,Aug-25,188.3,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,Jul-26,214.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,Aug-26,217.8,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,on Jul. 2026,1.8,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,on Aug. 2025,15.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,1 month,1.8,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,GENERAL INDEX,12 months,15.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,Weights,27.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,Aug-25,241.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,Jul-26,270.7,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,Aug-26,280.7,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,on Jul. 2026,3.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,on Aug. 2025,16.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,1 month,1.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Food and non-alcoholic beverages,12 months,5.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,Aug-25,197.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,Jul-26,210.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,Aug-26,211.3,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,on Jul. 2026,0.6,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,on Aug. 2025,7.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Bread and cereals,12 months,0.4,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,Weights,2.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,Aug-25,297.5,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,Jul-26,398.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,Aug-26,406.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,on Jul. 2026,2.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,on Aug. 2025,36.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,1 month,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Meat,12 months,1.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,Aug-25,216.8,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,Jul-26,227.9,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,Aug-26,228.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,on Jul. 2026,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,on Aug. 2025,5.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Milk cheese and eggs,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,Weights,9.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,Aug-25,269.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,Jul-26,313.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,Aug-26,336.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,on Jul. 2026,7.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,on Aug. 2025,24.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,1 month,0.9,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Vegetables,12 months,3.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,Aug-25,208.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,Jul-26,223.9,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,Aug-26,225.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,on Jul. 2026,0.8,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,on Aug. 2025,8.4,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Non-alcoholic beverages,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,Aug-25,261.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,Jul-26,283.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,Aug-26,286.9,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,on Jul. 2026,1.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,on Aug. 2025,9.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,1 month,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Alcoholic beverages tobacco and narcotics,12 months,0.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,Aug-25,168.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,Jul-26,176.9,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,Aug-26,177.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,on Aug. 2025,5.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Clothing and footwear,12 months,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",Weights,21.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",Aug-25,144.3,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",Jul-26,173.5,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",Aug-26,173.8,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",on Aug. 2025,20.4,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,"Housing water, electricity, gas and other fuels",12 months,3.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,Weights,4.0,%,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,Aug-25,173.4,index,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,Jul-26,183.2,index,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,Aug-26,184.3,index,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,on Jul. 2026,0.6,%,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,on Aug. 2025,6.3,%,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,1 month,0.0,%,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Furnishings household equipment and routine household maintenance,12 months,0.2,%,10,musa,True,True,True,True,no-row,verified,
-cpi_urban,Health,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,Aug-25,193.4,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,Jul-26,195.5,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,Aug-26,195.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,on Jul. 2026,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,on Aug. 2025,1.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Health,12 months,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,Weights,12.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,Aug-25,201.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,Jul-26,249.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,Aug-26,249.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,on Aug. 2025,24.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Transport,12 months,3.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,Aug-25,114.3,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,Jul-26,118.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,Aug-26,117.9,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,on Jul. 2026,-0.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,on Aug. 2025,3.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Communication,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,Aug-25,154.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,Jul-26,162.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,Aug-26,162.6,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,on Aug. 2025,5.6,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Recreation and culture,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,Aug-25,155.5,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,Jul-26,176.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,Aug-26,176.2,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,on Jul. 2026,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,on Aug. 2025,13.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Education,12 months,0.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,Weights,9.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,Aug-25,172.1,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,Jul-26,195.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,Aug-26,199.0,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,on Jul. 2026,2.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,on Aug. 2025,15.6,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,1 month,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Restaurants and hotels,12 months,1.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,Weights,6.0,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,Aug-25,147.1,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,Jul-26,160.5,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,Aug-26,166.7,index,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,on Jul. 2026,3.9,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,on Aug. 2025,13.3,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,1 month,0.2,%,10,musa,True,True,True,True,row-only,verified,
-cpi_urban,Miscellaneous goods and services,12 months,0.7,%,10,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,GENERAL INDEX,Aug-25,221.2,%,11,musa,True,True,False,True,row-only,review,221.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,GENERAL INDEX,Jul-26,248.9,%,11,musa,True,True,False,True,row-only,review,248.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,GENERAL INDEX,Aug-26,256.6,%,11,musa,True,True,False,True,row-only,review,256.6 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,GENERAL INDEX,on Jul. 2026,3.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,GENERAL INDEX,on Aug. 2025,16.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,GENERAL INDEX,1 month,3.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,GENERAL INDEX,12 months,16.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Food and non-alcoholic beverages,Aug-25,257.4,%,11,musa,True,True,False,True,row-only,review,257.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Food and non-alcoholic beverages,Jul-26,286.4,%,11,musa,True,True,False,True,row-only,review,286.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Food and non-alcoholic beverages,Aug-26,300.7,%,11,musa,True,True,False,True,row-only,review,300.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Food and non-alcoholic beverages,on Jul. 2026,5.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Food and non-alcoholic beverages,on Aug. 2025,16.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Food and non-alcoholic beverages,1 month,2.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Food and non-alcoholic beverages,12 months,9.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Bread and cereals,Aug-25,231.8,%,11,musa,True,True,False,True,row-only,review,231.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Bread and cereals,Jul-26,235.5,%,11,musa,True,True,False,True,row-only,review,235.5 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Bread and cereals,Aug-26,238.3,%,11,musa,True,True,False,True,row-only,review,238.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Bread and cereals,on Jul. 2026,1.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Bread and cereals,on Aug. 2025,2.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Bread and cereals,1 month,0.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Bread and cereals,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Meat,Aug-25,333.9,%,11,musa,True,True,False,True,row-only,review,333.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Meat,Jul-26,417.8,%,11,musa,True,True,False,True,row-only,review,417.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Meat,Aug-26,430.3,%,11,musa,True,True,False,True,row-only,review,430.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Meat,on Jul. 2026,3.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Meat,on Aug. 2025,28.9,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Meat,1 month,0.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Meat,12 months,0.7,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Milk cheese and eggs,Aug-25,226.2,%,11,musa,True,True,False,True,row-only,review,226.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Milk cheese and eggs,Jul-26,233.6,%,11,musa,True,True,False,True,row-only,review,233.6 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Milk cheese and eggs,Aug-26,237.3,%,11,musa,True,True,False,True,row-only,review,237.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Milk cheese and eggs,on Jul. 2026,1.6,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Milk cheese and eggs,on Aug. 2025,4.9,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Milk cheese and eggs,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Milk cheese and eggs,12 months,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Vegetables,Aug-25,267.6,%,11,musa,True,True,False,True,row-only,review,267.6 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Vegetables,Jul-26,306.9,%,11,musa,True,True,False,True,row-only,review,306.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Vegetables,Aug-26,326.6,%,11,musa,True,True,False,True,row-only,review,326.6 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Vegetables,on Jul. 2026,6.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Vegetables,on Aug. 2025,22.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Vegetables,1 month,2.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Vegetables,12 months,6.9,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Non-alcoholic beverages,Aug-25,204.3,%,11,musa,True,True,False,True,row-only,review,204.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Non-alcoholic beverages,Jul-26,221.9,%,11,musa,True,True,False,True,row-only,review,221.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Non-alcoholic beverages,Aug-26,223.2,%,11,musa,True,True,False,True,row-only,review,223.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Non-alcoholic beverages,on Jul. 2026,0.6,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Non-alcoholic beverages,on Aug. 2025,9.3,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Non-alcoholic beverages,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Non-alcoholic beverages,12 months,0.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,Aug-25,243.5,%,11,musa,True,True,False,True,row-only,review,243.5 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,Jul-26,268.8,%,11,musa,True,True,False,True,row-only,review,268.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,Aug-26,261.8,%,11,musa,True,True,False,True,row-only,review,261.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,-2.6,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,7.5,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,1 month,-0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Clothing and footwear,Aug-25,176.9,%,11,musa,True,True,False,True,row-only,review,176.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Clothing and footwear,Jul-26,184.5,%,11,musa,True,True,False,True,row-only,review,184.5 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Clothing and footwear,Aug-26,185.4,%,11,musa,True,True,False,True,row-only,review,185.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Clothing and footwear,on Jul. 2026,0.5,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Clothing and footwear,on Aug. 2025,4.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Clothing and footwear,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Clothing and footwear,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,"Housing water, electricity, gas and other fuels",Aug-25,168.0,%,11,musa,True,True,False,True,row-only,review,168.0 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,"Housing water, electricity, gas and other fuels",Jul-26,202.4,%,11,musa,True,True,False,True,row-only,review,202.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,"Housing water, electricity, gas and other fuels",Aug-26,200.7,%,11,musa,True,True,False,True,row-only,review,200.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,-0.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,19.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,"Housing water, electricity, gas and other fuels",1 month,-0.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,"Housing water, electricity, gas and other fuels",12 months,2.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Furnishings household equipment and routine household maintenance,Aug-25,175.4,%,11,musa,True,True,False,True,no-row,review,175.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Furnishings household equipment and routine household maintenance,Jul-26,195.3,%,11,musa,True,True,False,True,no-row,review,195.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Furnishings household equipment and routine household maintenance,Aug-26,199.2,%,11,musa,True,True,False,True,no-row,review,199.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,2.0,%,11,musa,True,True,True,True,no-row,verified,
-cpi_rural_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,13.6,%,11,musa,True,True,True,True,no-row,verified,
-cpi_rural_index,Furnishings household equipment and routine household maintenance,1 month,0.1,%,11,musa,True,True,True,True,no-row,verified,
-cpi_rural_index,Furnishings household equipment and routine household maintenance,12 months,0.3,%,11,musa,True,True,True,True,no-row,verified,
-cpi_rural_index,Health,Aug-25,180.2,%,11,musa,True,True,False,True,row-only,review,180.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Health,Jul-26,187.6,%,11,musa,True,True,False,True,row-only,review,187.6 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Health,Aug-26,187.7,%,11,musa,True,True,False,True,row-only,review,187.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Health,on Jul. 2026,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Health,on Aug. 2025,4.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Health,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Health,12 months,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Transport,Aug-25,136.7,%,11,musa,True,True,False,True,row-only,review,136.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Transport,Jul-26,189.7,%,11,musa,True,True,False,True,row-only,review,189.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Transport,Aug-26,189.8,%,11,musa,True,True,False,True,row-only,review,189.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Transport,on Jul. 2026,0.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Transport,on Aug. 2025,38.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Transport,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Transport,12 months,1.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Communication,Aug-25,137.8,%,11,musa,True,True,False,True,row-only,review,137.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Communication,Jul-26,137.8,%,11,musa,True,True,False,True,row-only,review,137.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Communication,Aug-26,213.3,%,11,musa,True,True,False,True,row-only,review,213.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Communication,on Jul. 2026,54.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Communication,on Aug. 2025,54.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Communication,1 month,0.5,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Communication,12 months,0.6,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Recreation and culture,Aug-25,174.3,%,11,musa,True,True,False,True,row-only,review,174.3 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Recreation and culture,Jul-26,207.4,%,11,musa,True,True,False,True,row-only,review,207.4 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Recreation and culture,Aug-26,208.5,%,11,musa,True,True,False,True,row-only,review,208.5 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Recreation and culture,on Jul. 2026,0.5,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Recreation and culture,on Aug. 2025,19.7,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Recreation and culture,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Recreation and culture,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Education,Aug-25,238.8,%,11,musa,True,True,False,True,row-only,review,238.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Education,Jul-26,263.1,%,11,musa,True,True,False,True,row-only,review,263.1 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Education,Aug-26,263.1,%,11,musa,True,True,False,True,row-only,review,263.1 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Education,on Jul. 2026,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Education,on Aug. 2025,10.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Education,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Education,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Restaurants and hotels,Aug-25,209.8,%,11,musa,True,True,False,True,row-only,review,209.8 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Restaurants and hotels,Jul-26,231.1,%,11,musa,True,True,False,True,row-only,review,231.1 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Restaurants and hotels,Aug-26,233.7,%,11,musa,True,True,False,True,row-only,review,233.7 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Restaurants and hotels,on Jul. 2026,1.1,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Restaurants and hotels,on Aug. 2025,11.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Restaurants and hotels,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Restaurants and hotels,12 months,0.5,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Miscellaneous goods and services,Aug-25,153.9,%,11,musa,True,True,False,True,row-only,review,153.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Miscellaneous goods and services,Jul-26,165.2,%,11,musa,True,True,False,True,row-only,review,165.2 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Miscellaneous goods and services,Aug-26,165.9,%,11,musa,True,True,False,True,row-only,review,165.9 est hors de la plage plausible pour cpi_rural_index
-cpi_rural_index,Miscellaneous goods and services,on Jul. 2026,0.4,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Miscellaneous goods and services,on Aug. 2025,7.8,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Miscellaneous goods and services,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
-cpi_rural_index,Miscellaneous goods and services,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,Weights,100.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,Aug-25,208.3,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,Jul-26,235.3,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,Aug-26,241.4,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,on Jul. 2026,2.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,on Aug. 2025,15.9,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,GENERAL INDEX,1 month,2.6,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,GENERAL INDEX,12 months,15.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Food and non-alcoholic beverages,Weights,39.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,Aug-25,254.4,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,Jul-26,283.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,Aug-26,296.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,on Jul. 2026,4.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,on Aug. 2025,16.7,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Food and non-alcoholic beverages,1 month,2.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Food and non-alcoholic beverages,12 months,7.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9 | cellule à relire : 1.4 est imprimé page 12 et comblerait l'écart
-cpi_index,Bread and cereals,Weights,7.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,Aug-25,221.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,Jul-26,228.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,Aug-26,231.0,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,on Jul. 2026,1.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,on Aug. 2025,4.2,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Bread and cereals,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -1.6 est imprimé page 12 et comblerait l'écart
-cpi_index,Bread and cereals,12 months,0.3,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Meat,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,Aug-25,316.9,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,Jul-26,409.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,Aug-26,420.0,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,on Jul. 2026,2.5,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,on Aug. 2025,32.5,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Meat,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -1.6 est imprimé page 12 et comblerait l'écart
-cpi_index,Meat,12 months,0.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Milk cheese and eggs,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,Aug-25,220.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,Jul-26,230.1,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,Aug-26,232.0,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,on Jul. 2026,0.8,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,on Aug. 2025,5.1,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Milk cheese and eggs,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Milk cheese and eggs,12 months,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Vegetables,Weights,18.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,Aug-25,268.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,Jul-26,308.9,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,Aug-26,329.2,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,on Jul. 2026,6.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,on Aug. 2025,22.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Vegetables,1 month,1.6,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -0.1 est imprimé page 12 et comblerait l'écart
-cpi_index,Vegetables,12 months,5.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Non-alcoholic beverages,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,Aug-25,205.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,Jul-26,222.2,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,Aug-26,223.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,on Jul. 2026,0.7,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,on Aug. 2025,8.8,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Non-alcoholic beverages,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Non-alcoholic beverages,12 months,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Alcoholic beverages tobacco and narcotics,Weights,7.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,Aug-25,248.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,Jul-26,272.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,Aug-26,269.0,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,-1.4,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,8.2,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Alcoholic beverages tobacco and narcotics,1 month,-0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Clothing and footwear,Weights,5.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,Aug-25,173.1,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,Jul-26,181.1,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,Aug-26,181.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,on Jul. 2026,0.4,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,on Aug. 2025,5.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Clothing and footwear,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Clothing and footwear,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,"Housing water, electricity, gas and other fuels",Weights,18.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",Aug-25,155.3,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",Jul-26,186.9,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",Aug-26,186.1,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,-0.4,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,19.9,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,"Housing water, electricity, gas and other fuels",1 month,-0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,"Housing water, electricity, gas and other fuels",12 months,2.7,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Furnishings household equipment and routine household maintenance,Weights,3.0,%,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,Aug-25,174.1,Index,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,Jul-26,189.3,Index,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,Aug-26,191.8,Index,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,1.4,%,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,10.2,%,12,musa,True,True,True,True,no-row,verified,
-cpi_index,Furnishings household equipment and routine household maintenance,1 month,0.0,Index,12,musa,True,True,True,False,no-row,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Furnishings household equipment and routine household maintenance,12 months,0.3,Index,12,musa,True,True,True,False,no-row,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Health,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,Aug-25,186.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,Jul-26,191.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,Aug-26,191.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,on Jul. 2026,0.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,on Aug. 2025,2.7,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Health,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Health,12 months,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Transport,Weights,8.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,Aug-25,180.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,Jul-26,230.3,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,Aug-26,230.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,on Jul. 2026,0.1,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,on Aug. 2025,27.5,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Transport,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Transport,12 months,1.8,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Communication,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,Aug-25,123.3,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,Jul-26,125.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,Aug-26,157.4,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,on Jul. 2026,25.3,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,on Aug. 2025,27.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Communication,1 month,0.3,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Communication,12 months,0.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Recreation and culture,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,Aug-25,161.8,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,Jul-26,179.9,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,Aug-26,180.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,on Jul. 2026,0.4,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,on Aug. 2025,11.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Recreation and culture,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Recreation and culture,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Education,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,Aug-25,193.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,Jul-26,216.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,Aug-26,216.6,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,on Jul. 2026,0.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,on Aug. 2025,11.8,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Education,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Education,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Restaurants and hotels,Weights,6.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,Aug-25,188.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,Jul-26,211.0,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,Aug-26,214.5,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,on Jul. 2026,1.6,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,on Aug. 2025,13.7,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Restaurants and hotels,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Restaurants and hotels,12 months,0.8,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
-cpi_index,Miscellaneous goods and services,Weights,5.0,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,Aug-25,149.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,Jul-26,162.1,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,Aug-26,165.7,Index,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,on Jul. 2026,2.3,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,on Aug. 2025,10.7,%,12,musa,True,True,True,True,row-only,verified,
-cpi_index,Miscellaneous goods and services,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
-cpi_index,Miscellaneous goods and services,12 months,0.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIL. 2025,104.1,%,7,musa,True,True,False,True,absent,review,"104.1 est hors de la plage plausible pour indice_prix_importation | 104.1 n'est nulle part sur la ligne « ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL » ; cette ligne contient [177104.1, 101.1, 97.4, 102.4, 105.3, 2.8]"
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,AVRIL 2025,101.1,%,7,musa,True,True,False,True,row-only,review,101.1 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,MAI 2025,97.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIN 2025,102.4,%,7,musa,True,True,False,True,row-only,review,102.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIL. 2026,105.3,%,7,musa,True,True,False,True,row-only,review,105.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIL./JUIN,2.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIL./JUIL. CUM.,1.2,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,CUM.,-0.5,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Lait,JUIL. 2025,106.0,%,7,musa,True,True,False,True,absent,review,"106.0 est hors de la plage plausible pour indice_prix_importation | 106.0 n'est nulle part sur la ligne « Lait » ; cette ligne contient [91106.0, 101.2, 107.8, 106.7, 105.2, -1.4]"
+indice_prix_importation,Lait,AVRIL 2025,101.2,%,7,musa,True,True,False,True,row-only,review,101.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Lait,MAI 2025,107.8,%,7,musa,True,True,False,True,row-only,review,107.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Lait,JUIN 2025,106.7,%,7,musa,True,True,False,True,row-only,review,106.7 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Lait,JUIL. 2026,105.2,%,7,musa,True,True,False,True,row-only,review,105.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Lait,JUIL./JUIN,-1.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Lait,JUIL./JUIL. CUM.,-0.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Lait,CUM.,-1.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Lait,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,JUIL. 2025,101.7,%,7,musa,True,True,False,True,absent,review,"101.7 est hors de la plage plausible pour indice_prix_importation | 101.7 n'est nulle part sur la ligne « Nouvelle Zélande » ; cette ligne contient [27101.7, 67.0, 89.4, 85.6, 80.7, -5.8]"
+indice_prix_importation,Nouvelle Zélande,AVRIL 2025,67.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,MAI 2025,89.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,JUIN 2025,85.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,JUIL. 2026,80.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,JUIL./JUIN,-5.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,JUIL./JUIL. CUM.,-20.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,CUM.,-12.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Nouvelle Zélande,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,JUIL. 2025,89.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,AVRIL 2025,93.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,MAI 2025,74.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,JUIN 2025,84.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,JUIL. 2026,82.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,JUIL./JUIN,-2.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,JUIL./JUIL. CUM.,-7.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,CUM.,-10.5,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fromages,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL. 2025,98.2,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,AVRIL 2025,105.4,%,7,musa,True,True,False,True,row-only,review,105.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,MAI 2025,100.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIN 2025,102.7,%,7,musa,True,True,False,True,row-only,review,102.7 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL. 2026,106.5,%,7,musa,True,True,False,True,row-only,review,106.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL./JUIN,3.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL./JUIL. CUM.,8.5,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,CUM.,-4.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,JUIL. 2025,135.6,%,7,musa,True,True,False,True,row-only,review,135.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,AVRIL 2025,125.7,%,7,musa,True,True,False,True,row-only,review,125.7 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,MAI 2025,122.4,%,7,musa,True,True,False,True,row-only,review,122.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,JUIN 2025,124.2,%,7,musa,True,True,False,True,row-only,review,124.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,JUIL. 2026,131.2,%,7,musa,True,True,False,True,row-only,review,131.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,JUIL./JUIN,5.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,JUIL./JUIL. CUM.,-3.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,CUM.,-1.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,PRODUITS DU REGNE VEGETAL,mensuelle,0.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Riz,JUIL. 2025,148.0,%,7,musa,True,True,False,True,absent,review,"148.0 est hors de la plage plausible pour indice_prix_importation | 148.0 n'est nulle part sur la ligne « Riz » ; cette ligne contient [864148.0, 130.2, 124.5, 126.9, 123.5, -2.7]"
+indice_prix_importation,Riz,AVRIL 2025,130.2,%,7,musa,True,True,False,True,row-only,review,130.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Riz,MAI 2025,124.5,%,7,musa,True,True,False,True,row-only,review,124.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Riz,JUIN 2025,126.9,%,7,musa,True,True,False,True,row-only,review,126.9 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Riz,JUIL. 2026,123.5,%,7,musa,True,True,False,True,row-only,review,123.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Riz,JUIL./JUIN,-2.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Riz,JUIL./JUIL. CUM.,-16.5,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Riz,CUM.,-2.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Riz,mensuelle,-0.2,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Inde,JUIL. 2025,170.7,%,7,musa,True,True,False,True,absent,review,"170.7 est hors de la plage plausible pour indice_prix_importation | 170.7 n'est nulle part sur la ligne « Inde » ; cette ligne contient [527170.7, 129.4, 120.0, 124.0, 124.5, 0.4]"
+indice_prix_importation,Inde,AVRIL 2025,129.4,%,7,musa,True,True,False,True,row-only,review,129.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Inde,MAI 2025,120.0,%,7,musa,True,True,False,True,row-only,review,120.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Inde,JUIN 2025,124.0,%,7,musa,True,True,False,True,row-only,review,124.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Inde,JUIL. 2026,124.5,%,7,musa,True,True,False,True,row-only,review,124.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Inde,JUIL./JUIN,0.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Inde,JUIL./JUIL. CUM.,-27.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Inde,CUM.,-6.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Inde,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Thaïlande,JUIL. 2025,109.6,%,7,musa,True,True,False,True,absent,review,"109.6 est hors de la plage plausible pour indice_prix_importation | 109.6 n'est nulle part sur la ligne « Thaïlande » ; cette ligne contient [214109.6, 139.5, 139.5, 139.5, 124.4, -10.8]"
+indice_prix_importation,Thaïlande,AVRIL 2025,139.5,%,7,musa,True,True,False,True,row-only,review,139.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Thaïlande,MAI 2025,139.5,%,7,musa,True,True,False,True,row-only,review,139.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Thaïlande,JUIN 2025,139.5,%,7,musa,True,True,False,True,row-only,review,139.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Thaïlande,JUIL. 2026,124.4,%,7,musa,True,True,False,True,row-only,review,124.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Thaïlande,JUIL./JUIN,-10.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Thaïlande,JUIL./JUIL. CUM.,13.5,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Thaïlande,CUM.,7.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Thaïlande,mensuelle,-0.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Blé,JUIL. 2025,111.2,%,7,musa,True,True,False,True,absent,review,"111.2 est hors de la plage plausible pour indice_prix_importation | 111.2 n'est nulle part sur la ligne « Blé » ; cette ligne contient [378111.2, 110.9, 109.2, 110.2, 146.7, 33.0]"
+indice_prix_importation,Blé,AVRIL 2025,110.9,%,7,musa,True,True,False,True,row-only,review,110.9 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Blé,MAI 2025,109.2,%,7,musa,True,True,False,True,row-only,review,109.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Blé,JUIN 2025,110.2,%,7,musa,True,True,False,True,row-only,review,110.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Blé,JUIL. 2026,146.7,%,7,musa,True,True,False,True,row-only,review,146.7 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Blé,JUIL./JUIN,33.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Blé,JUIL./JUIL. CUM.,31.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Blé,CUM.,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Blé,mensuelle,1.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL. 2025,106.4,%,7,musa,True,True,False,True,absent,review,"106.4 est hors de la plage plausible pour indice_prix_importation | 106.4 n'est nulle part sur la ligne « France » ; cette ligne contient [279106.4, 107.0, 102.8, 105.1, 154.5, 47.0]"
+indice_prix_importation,France,AVRIL 2025,107.0,%,7,musa,True,True,False,True,row-only,review,107.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,MAI 2025,102.8,%,7,musa,True,True,False,True,row-only,review,102.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIN 2025,105.1,%,7,musa,True,True,False,True,row-only,review,105.1 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL. 2026,154.5,%,7,musa,True,True,False,True,row-only,review,154.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL./JUIN,47.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL./JUIL. CUM.,45.2,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,CUM.,0.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,1.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Maïs,JUIL. 2025,113.2,%,7,musa,True,True,False,True,absent,review,"113.2 est hors de la plage plausible pour indice_prix_importation | 113.2 n'est nulle part sur la ligne « Maïs » ; cette ligne contient [87113.2, 124.3, 120.8, 126.6, 118.6, -6.3]"
+indice_prix_importation,Maïs,AVRIL 2025,124.3,%,7,musa,True,True,False,True,row-only,review,124.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Maïs,MAI 2025,120.8,%,7,musa,True,True,False,True,row-only,review,120.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Maïs,JUIN 2025,126.6,%,7,musa,True,True,False,True,row-only,review,126.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Maïs,JUIL. 2026,118.6,%,7,musa,True,True,False,True,row-only,review,118.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Maïs,JUIL./JUIN,-6.3,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Maïs,JUIL./JUIL. CUM.,4.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Maïs,CUM.,-0.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Maïs,mensuelle,-0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Argentine,JUIL. 2025,117.3,%,7,musa,True,True,False,True,absent,review,"117.3 est hors de la plage plausible pour indice_prix_importation | 117.3 n'est nulle part sur la ligne « Argentine » ; cette ligne contient [63117.3, 127.3, 122.6, 130.5, 119.5, -8.4]"
+indice_prix_importation,Argentine,AVRIL 2025,127.3,%,7,musa,True,True,False,True,row-only,review,127.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Argentine,MAI 2025,122.6,%,7,musa,True,True,False,True,row-only,review,122.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Argentine,JUIN 2025,130.5,%,7,musa,True,True,False,True,row-only,review,130.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Argentine,JUIL. 2026,119.5,%,7,musa,True,True,False,True,row-only,review,119.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Argentine,JUIL./JUIN,-8.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Argentine,JUIL./JUIL. CUM.,1.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Argentine,CUM.,-5.2,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Argentine,mensuelle,-0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Oignons,JUIL. 2025,168.4,%,7,musa,True,True,False,True,absent,review,"168.4 est hors de la plage plausible pour indice_prix_importation | 168.4 n'est nulle part sur la ligne « Oignons » ; cette ligne contient [36168.4, 168.5, 168.5, 168.5, 168.5, 0.0]"
+indice_prix_importation,Oignons,AVRIL 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Oignons,MAI 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Oignons,JUIN 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Oignons,JUIL. 2026,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Oignons,JUIL./JUIN,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Oignons,JUIL./JUIL. CUM.,0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Oignons,CUM.,0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Oignons,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Pays-Bas,JUIL. 2025,168.4,%,7,musa,True,True,False,True,absent,review,"168.4 est hors de la plage plausible pour indice_prix_importation | 168.4 n'est nulle part sur la ligne « Pays-Bas » ; cette ligne contient [36168.4, 168.5, 168.5, 168.5, 168.5, 0.0]"
+indice_prix_importation,Pays-Bas,AVRIL 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Pays-Bas,MAI 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Pays-Bas,JUIN 2025,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Pays-Bas,JUIL. 2026,168.5,%,7,musa,True,True,False,True,row-only,review,168.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Pays-Bas,JUIL./JUIN,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Pays-Bas,JUIL./JUIL. CUM.,0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Pays-Bas,CUM.,0.1,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Pays-Bas,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,JUIL. 2025,95.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,AVRIL 2025,73.4,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,MAI 2025,78.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,JUIN 2025,74.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,JUIL. 2026,75.9,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,JUIL./JUIN,2.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,JUIL./JUIL. CUM.,-20.7,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,CUM.,-24.8,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,GRAISSES ET HUILES ANIMALES OU VEGETALES,mensuelle,0.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Huile de palme,JUIL. 2025,86.6,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Huile de palme,AVRIL 2025,55.0,%,7,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Livres, brochures et imprimés similaires",Poids,11.0,%,8,musa,True,True,True,True,absent,review,"11 n'est nulle part sur la ligne « Livres, brochures et imprimés similaires » ; cette ligne contient [11126.1, 94.0, 117.2, 117.2, 158.8, 35.4]"
+indice_prix_importation,"Livres, brochures et imprimés similaires",JUIL.,126.1,%,8,musa,True,True,False,True,absent,review,"126.1 est hors de la plage plausible pour indice_prix_importation | 126.1 n'est nulle part sur la ligne « Livres, brochures et imprimés similaires » ; cette ligne contient [11126.1, 94.0, 117.2, 117.2, 158.8, 35.4]"
+indice_prix_importation,"Livres, brochures et imprimés similaires",AVRIL,94.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Livres, brochures et imprimés similaires",MAI,117.2,%,8,musa,True,True,False,True,row-only,review,117.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Livres, brochures et imprimés similaires",JUIN,117.2,%,8,musa,True,True,False,True,row-only,review,117.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Livres, brochures et imprimés similaires",JUIL.,158.8,%,8,musa,True,True,False,True,row-only,review,158.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Livres, brochures et imprimés similaires",JUIL./JUIN,35.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Livres, brochures et imprimés similaires",JUIL./JUIL. CUM.,25.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Livres, brochures et imprimés similaires",mensuelle,5.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Livres, brochures et imprimés similaires",mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,Poids,11.0,%,8,musa,True,True,True,True,absent,review,"11 n'est nulle part sur la ligne « France » ; cette ligne contient [11126.1, 94.0, 117.2, 117.2, 158.8, 35.4]"
+indice_prix_importation,France,JUIL.,126.1,%,8,musa,True,True,False,True,absent,review,"126.1 est hors de la plage plausible pour indice_prix_importation | 126.1 n'est nulle part sur la ligne « France » ; cette ligne contient [11126.1, 94.0, 117.2, 117.2, 158.8, 35.4]"
+indice_prix_importation,France,AVRIL,94.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,MAI,117.2,%,8,musa,True,True,False,True,row-only,review,117.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIN,117.2,%,8,musa,True,True,False,True,row-only,review,117.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL.,158.8,%,8,musa,True,True,False,True,row-only,review,158.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,France,JUIL./JUIN,35.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL./JUIL. CUM.,25.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,5.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",Poids,9.0,%,8,musa,True,True,True,True,no-row,verified,
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",JUIL.,222.0,%,8,musa,True,True,False,True,no-row,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",AVRIL,222.0,%,8,musa,True,True,False,True,no-row,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",MAI,222.0,%,8,musa,True,True,False,True,no-row,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",JUIN,222.0,%,8,musa,True,True,False,True,no-row,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",JUIL.,222.0,%,8,musa,True,True,False,True,no-row,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",JUIL./JUIN,0.0,%,8,musa,True,True,True,True,no-row,verified,
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",JUIL./JUIL. CUM.,0.0,%,8,musa,True,True,True,True,no-row,verified,
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",mensuelle,0.0,%,8,musa,True,True,True,True,no-row,verified,
+indice_prix_importation,"Autres imprimés, y compris les images, les gravures et les photographies",mensuelle,0.0,%,8,musa,True,True,True,True,no-row,verified,
+indice_prix_importation,Malaisie,Poids,9.0,%,8,musa,True,True,True,True,absent,review,"9 n'est nulle part sur la ligne « Malaisie » ; cette ligne contient [9222.0, 222.0, 222.0, 222.0, 222.0, 0.0]"
+indice_prix_importation,Malaisie,JUIL.,222.0,%,8,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Malaisie,AVRIL,222.0,%,8,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Malaisie,MAI,222.0,%,8,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Malaisie,JUIN,222.0,%,8,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Malaisie,JUIL.,222.0,%,8,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Malaisie,JUIL./JUIN,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Malaisie,JUIL./JUIL. CUM.,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Malaisie,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Malaisie,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,Poids,149.0,%,8,musa,True,True,False,True,row-only,review,149 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,JUIL.,83.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,AVRIL,83.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,MAI,87.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,JUIN,89.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,JUIL.,91.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,JUIL./JUIN,2.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,JUIL./JUIL. CUM.,9.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,mensuelle,-4.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,MATIERES TEXTILES ET OUVRAGES,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fibres synthétiques,Poids,57.0,%,8,musa,True,True,True,True,absent,review,"57 n'est nulle part sur la ligne « Fibres synthétiques » ; cette ligne contient [57103.6, 99.9, 108.7, 113.8, 112.6, -1.1]"
+indice_prix_importation,Fibres synthétiques,JUIL.,103.6,%,8,musa,True,True,False,True,absent,review,"103.6 est hors de la plage plausible pour indice_prix_importation | 103.6 n'est nulle part sur la ligne « Fibres synthétiques » ; cette ligne contient [57103.6, 99.9, 108.7, 113.8, 112.6, -1.1]"
+indice_prix_importation,Fibres synthétiques,AVRIL,99.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fibres synthétiques,MAI,108.7,%,8,musa,True,True,False,True,row-only,review,108.7 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Fibres synthétiques,JUIN,113.8,%,8,musa,True,True,False,True,row-only,review,113.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Fibres synthétiques,JUIL.,112.6,%,8,musa,True,True,False,True,row-only,review,112.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Fibres synthétiques,JUIL./JUIN,-1.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fibres synthétiques,JUIL./JUIL. CUM.,8.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fibres synthétiques,mensuelle,-12.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Fibres synthétiques,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Japon,Poids,46.0,%,8,musa,True,True,True,True,absent,review,"46 n'est nulle part sur la ligne « Japon » ; cette ligne contient [46101.6, 99.2, 112.3, 113.2, 112.8, -0.4]"
+indice_prix_importation,Japon,JUIL.,101.6,%,8,musa,True,True,False,True,absent,review,"101.6 est hors de la plage plausible pour indice_prix_importation | 101.6 n'est nulle part sur la ligne « Japon » ; cette ligne contient [46101.6, 99.2, 112.3, 113.2, 112.8, -0.4]"
+indice_prix_importation,Japon,AVRIL,99.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Japon,MAI,112.3,%,8,musa,True,True,False,True,row-only,review,112.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Japon,JUIN,113.2,%,8,musa,True,True,False,True,row-only,review,113.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Japon,JUIL.,112.8,%,8,musa,True,True,False,True,row-only,review,112.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Japon,JUIL./JUIN,-0.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Japon,JUIL./JUIL. CUM.,11.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Japon,mensuelle,-11.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Japon,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,Poids,27.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,JUIL.,64.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,AVRIL,71.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,MAI,74.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,JUIN,70.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,JUIL.,62.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,JUIL./JUIN,-11.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,JUIL./JUIL. CUM.,-2.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,mensuelle,3.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Articles de friperie,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,Poids,14.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL.,76.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,AVRIL,75.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,MAI,76.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIN,76.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL.,75.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL./JUIN,-0.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,JUIL./JUIL. CUM.,-0.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,-7.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,France,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,Poids,8.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,JUIL.,60.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,AVRIL,79.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,MAI,80.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,JUIN,77.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,JUIL.,71.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,JUIL./JUIN,-7.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,JUIL./JUIL. CUM.,19.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,mensuelle,19.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Etats-Unis,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",Poids,14.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",JUIL.,47.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",AVRIL,60.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",MAI,63.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",JUIN,63.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",JUIL.,62.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",JUIL./JUIN,-1.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",JUIL./JUIL. CUM.,31.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",mensuelle,22.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"CHAUSSURES, COIFFURES",mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,Poids,9.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,JUIL.,39.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,AVRIL,48.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,MAI,53.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,JUIN,53.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,JUIL.,52.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,JUIL./JUIN,-3.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,JUIL./JUIL. CUM.,30.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,mensuelle,7.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chaussures,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,Poids,9.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL.,39.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,AVRIL,48.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,MAI,53.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIN,53.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL.,52.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL./JUIN,-3.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL./JUIL. CUM.,30.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,mensuelle,7.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",Poids,80.0,%,8,musa,True,True,True,True,absent,review,"80 n'est nulle part sur la ligne « OUVRAGES EN PIERRES, CIMENT ET VERRES » ; cette ligne contient [80104.9, 113.6, 96.1, 93.8, 96.3, 2.7]"
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",JUIL.,104.9,%,8,musa,True,True,False,True,absent,review,"104.9 est hors de la plage plausible pour indice_prix_importation | 104.9 n'est nulle part sur la ligne « OUVRAGES EN PIERRES, CIMENT ET VERRES » ; cette ligne contient [80104.9, 113.6, 96.1, 93.8, 96.3, 2.7]"
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",AVRIL,113.6,%,8,musa,True,True,False,True,row-only,review,113.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",MAI,96.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",JUIN,93.8,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",JUIL.,96.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",JUIL./JUIN,2.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",JUIL./JUIL. CUM.,-8.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",mensuelle,1.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"OUVRAGES EN PIERRES, CIMENT ET VERRES",mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,Poids,69.0,%,8,musa,True,True,True,True,absent,review,"69 n'est nulle part sur la ligne « Carreaux » ; cette ligne contient [69107.7, 117.0, 97.2, 94.0, 97.0, 3.2]"
+indice_prix_importation,Carreaux,JUIL.,107.7,%,8,musa,True,True,False,True,absent,review,"107.7 est hors de la plage plausible pour indice_prix_importation | 107.7 n'est nulle part sur la ligne « Carreaux » ; cette ligne contient [69107.7, 117.0, 97.2, 94.0, 97.0, 3.2]"
+indice_prix_importation,Carreaux,AVRIL,117.0,%,8,musa,True,True,False,True,row-only,review,117.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Carreaux,MAI,97.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,JUIN,94.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,JUIL.,97.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,JUIL./JUIN,3.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,JUIL./JUIL. CUM.,-10.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,mensuelle,0.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Carreaux,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,Poids,45.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL.,90.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,AVRIL,92.6,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,MAI,86.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIN,80.7,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL.,86.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL./JUIN,7.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,JUIL./JUIL. CUM.,-4.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,mensuelle,4.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Chine,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Turquie,Poids,14.0,%,8,musa,True,True,True,True,absent,review,"14 n'est nulle part sur la ligne « Turquie » ; cette ligne contient [14158.9, 211.5, 127.8, 135.4, 141.0, 4.1]"
+indice_prix_importation,Turquie,JUIL.,158.9,%,8,musa,True,True,False,True,absent,review,"158.9 est hors de la plage plausible pour indice_prix_importation | 158.9 n'est nulle part sur la ligne « Turquie » ; cette ligne contient [14158.9, 211.5, 127.8, 135.4, 141.0, 4.1]"
+indice_prix_importation,Turquie,AVRIL,211.5,%,8,musa,True,True,False,True,row-only,review,211.5 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Turquie,MAI,127.8,%,8,musa,True,True,False,True,row-only,review,127.8 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Turquie,JUIN,135.4,%,8,musa,True,True,False,True,row-only,review,135.4 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Turquie,JUIL.,141.0,%,8,musa,True,True,False,True,row-only,review,141.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,Turquie,JUIL./JUIN,4.1,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Turquie,JUIL./JUIL. CUM.,-11.2,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Turquie,mensuelle,-1.9,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,Turquie,mensuelle,0.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,Poids,487.0,%,8,musa,True,True,False,True,absent,review,"487 est hors de la plage plausible pour indice_prix_importation | 487 n'est nulle part sur la ligne « METAUX COMMUNS ET OUVRAGES » ; cette ligne contient [487144.4, 140.2, 137.9, 140.9, 130.6, -7.3]"
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,JUIL.,144.4,%,8,musa,True,True,False,True,absent,review,"144.4 est hors de la plage plausible pour indice_prix_importation | 144.4 n'est nulle part sur la ligne « METAUX COMMUNS ET OUVRAGES » ; cette ligne contient [487144.4, 140.2, 137.9, 140.9, 130.6, -7.3]"
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,AVRIL,140.2,%,8,musa,True,True,False,True,row-only,review,140.2 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,MAI,137.9,%,8,musa,True,True,False,True,row-only,review,137.9 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,JUIN,140.9,%,8,musa,True,True,False,True,row-only,review,140.9 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,JUIL.,130.6,%,8,musa,True,True,False,True,row-only,review,130.6 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,JUIL./JUIN,-7.3,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,JUIL./JUIL. CUM.,-9.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,mensuelle,-2.0,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,METAUX COMMUNS ET OUVRAGES,mensuelle,-0.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",Poids,153.0,%,8,musa,True,True,False,True,absent,review,"153 est hors de la plage plausible pour indice_prix_importation | 153 n'est nulle part sur la ligne « Accessoires de tuyauterie en fonte, fer ou acier » ; cette ligne contient [153103.3, 103.0, 103.3, 103.3, 90.5, -12.5]"
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",JUIL.,103.3,%,8,musa,True,True,False,True,row-only,review,103.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",AVRIL,103.0,%,8,musa,True,True,False,True,row-only,review,103.0 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",MAI,103.3,%,8,musa,True,True,False,True,row-only,review,103.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",JUIN,103.3,%,8,musa,True,True,False,True,row-only,review,103.3 est hors de la plage plausible pour indice_prix_importation
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",JUIL.,90.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",JUIL./JUIN,-12.5,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",JUIL./JUIL. CUM.,-12.4,%,8,musa,True,True,True,True,row-only,verified,
+indice_prix_importation,"Accessoires de tuyauterie en fonte, fer ou acier",mensuelle,-0.8,%,8,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,Poids à la variation,1566.0,%,9,musa,True,True,False,True,row-only,review,1566 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,AVRIL 2025,124.1,%,9,musa,True,True,False,True,row-only,review,124.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,MAI 2025,121.7,%,9,musa,True,True,False,True,row-only,review,121.7 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIN 2025,128.5,%,9,musa,True,True,False,True,row-only,review,128.5 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,JUIL. 2026,128.0,%,9,musa,True,True,False,True,row-only,review,128.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,Variation mensuelle JUIL./JUIN,-1.5,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,Variation JUIL./JUIL.,1.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,Variation CUM.,4.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,ANIMAUX VIVANTS ET PRODUITS DU REGNE ANIMAL,Contribution,-0.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons frais,Poids à la variation,277.0,%,9,musa,True,True,False,True,absent,review,"277 est hors de la plage plausible pour variation_indice_prix_exportation | 277 n'est nulle part sur la ligne « Poissons frais » ; cette ligne contient [277120.0, 125.3, 119.7, 118.0, 86.5, -26.7]"
+variation_indice_prix_exportation,Poissons frais,AVRIL 2025,120.0,%,9,musa,True,True,False,True,absent,review,"120.0 est hors de la plage plausible pour variation_indice_prix_exportation | 120.0 n'est nulle part sur la ligne « Poissons frais » ; cette ligne contient [277120.0, 125.3, 119.7, 118.0, 86.5, -26.7]"
+variation_indice_prix_exportation,Poissons frais,MAI 2025,125.3,%,9,musa,True,True,False,True,row-only,review,125.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons frais,JUIN 2025,119.7,%,9,musa,True,True,False,True,row-only,review,119.7 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons frais,JUIL. 2026,118.0,%,9,musa,True,True,False,True,row-only,review,118.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons frais,Variation mensuelle JUIL./JUIN,86.5,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons frais,Variation JUIL./JUIL.,-26.7,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons frais,Variation CUM.,-27.9,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons frais,Contribution,1.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,France,Poids à la variation,119.0,%,9,musa,True,True,False,True,row-only,review,119 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,France,AVRIL 2025,92.7,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,France,MAI 2025,108.4,%,9,musa,True,True,False,True,row-only,review,108.4 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,France,JUIN 2025,104.0,%,9,musa,True,True,False,True,row-only,review,104.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,France,JUIL. 2026,106.1,%,9,musa,True,True,False,True,row-only,review,106.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,France,Variation mensuelle JUIL./JUIN,55.4,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,France,Variation JUIL./JUIL.,-47.7,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,France,Variation CUM.,-40.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,France,Contribution,-1.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mollusques,Poids à la variation,204.0,%,9,musa,True,True,False,True,absent,review,"204 est hors de la plage plausible pour variation_indice_prix_exportation | 204 n'est nulle part sur la ligne « Mollusques » ; cette ligne contient [204170.9, 189.2, 189.4, 186.9, 188.0, 0.6]"
+variation_indice_prix_exportation,Mollusques,AVRIL 2025,170.9,%,9,musa,True,True,False,True,absent,review,"170.9 est hors de la plage plausible pour variation_indice_prix_exportation | 170.9 n'est nulle part sur la ligne « Mollusques » ; cette ligne contient [204170.9, 189.2, 189.4, 186.9, 188.0, 0.6]"
+variation_indice_prix_exportation,Mollusques,MAI 2025,189.2,%,9,musa,True,True,False,True,row-only,review,189.2 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mollusques,JUIN 2025,189.4,%,9,musa,True,True,False,True,row-only,review,189.4 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mollusques,JUIL. 2026,186.9,%,9,musa,True,True,False,True,row-only,review,186.9 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mollusques,Variation mensuelle JUIL./JUIN,188.0,%,9,musa,True,True,False,True,row-only,review,188.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mollusques,Variation JUIL./JUIL.,0.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mollusques,Variation CUM.,10.0,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mollusques,Contribution,0.9,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Hong-Kong,Poids à la variation,8.0,%,9,musa,True,True,True,True,absent,review,"8 n'est nulle part sur la ligne « Hong-Kong » ; cette ligne contient [8220.4, 192.3, 172.1, 128.8, 164.4, 27.6]"
+variation_indice_prix_exportation,Hong-Kong,AVRIL 2025,220.4,%,9,musa,True,True,False,True,absent,review,"220.4 est hors de la plage plausible pour variation_indice_prix_exportation | 220.4 n'est nulle part sur la ligne « Hong-Kong » ; cette ligne contient [8220.4, 192.3, 172.1, 128.8, 164.4, 27.6]"
+variation_indice_prix_exportation,Hong-Kong,MAI 2025,192.3,%,9,musa,True,True,False,True,row-only,review,192.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Hong-Kong,JUIN 2025,172.1,%,9,musa,True,True,False,True,row-only,review,172.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Hong-Kong,JUIL. 2026,128.8,%,9,musa,True,True,False,True,row-only,review,128.8 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Hong-Kong,Variation mensuelle JUIL./JUIN,164.4,%,9,musa,True,True,False,True,row-only,review,164.4 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Hong-Kong,Variation JUIL./JUIL.,27.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Hong-Kong,Variation CUM.,-25.4,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Hong-Kong,Contribution,-20.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons congelés,Poids à la variation,891.0,%,9,musa,True,True,False,True,absent,review,"891 est hors de la plage plausible pour variation_indice_prix_exportation | 891 n'est nulle part sur la ligne « Poissons congelés » ; cette ligne contient [891108.4, 104.5, 119.7, 119.1, 125.7, 5.5]"
+variation_indice_prix_exportation,Poissons congelés,AVRIL 2025,108.4,%,9,musa,True,True,False,True,absent,review,"108.4 est hors de la plage plausible pour variation_indice_prix_exportation | 108.4 n'est nulle part sur la ligne « Poissons congelés » ; cette ligne contient [891108.4, 104.5, 119.7, 119.1, 125.7, 5.5]"
+variation_indice_prix_exportation,Poissons congelés,MAI 2025,104.5,%,9,musa,True,True,False,True,row-only,review,104.5 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons congelés,JUIN 2025,119.7,%,9,musa,True,True,False,True,row-only,review,119.7 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons congelés,JUIL. 2026,119.1,%,9,musa,True,True,False,True,row-only,review,119.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons congelés,Variation mensuelle JUIL./JUIN,125.7,%,9,musa,True,True,False,True,row-only,review,125.7 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Poissons congelés,Variation JUIL./JUIL.,5.5,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons congelés,Variation CUM.,15.9,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Poissons congelés,Contribution,9.8,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,Poids à la variation,78.0,%,9,musa,True,True,True,True,absent,review,"78 n'est nulle part sur la ligne « Viêtnam » ; cette ligne contient [78100.5, 79.1, 74.1, 77.4, 94.1, 21.6]"
+variation_indice_prix_exportation,Viêtnam,AVRIL 2025,100.5,%,9,musa,True,True,False,True,absent,review,"100.5 est hors de la plage plausible pour variation_indice_prix_exportation | 100.5 n'est nulle part sur la ligne « Viêtnam » ; cette ligne contient [78100.5, 79.1, 74.1, 77.4, 94.1, 21.6]"
+variation_indice_prix_exportation,Viêtnam,MAI 2025,79.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,JUIN 2025,74.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,JUIL. 2026,77.4,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,Variation mensuelle JUIL./JUIN,94.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,Variation JUIL./JUIL.,21.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,Variation CUM.,-6.4,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Viêtnam,Contribution,-2.9,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Corée du Sud,Poids à la variation,40.0,%,9,musa,True,True,True,True,absent,review,"40 n'est nulle part sur la ligne « Corée du Sud » ; cette ligne contient [40163.4, 222.0, 299.3, 299.3, 410.0, 37.0]"
+variation_indice_prix_exportation,Corée du Sud,AVRIL 2025,163.4,%,9,musa,True,True,False,True,absent,review,"163.4 est hors de la plage plausible pour variation_indice_prix_exportation | 163.4 n'est nulle part sur la ligne « Corée du Sud » ; cette ligne contient [40163.4, 222.0, 299.3, 299.3, 410.0, 37.0]"
+variation_indice_prix_exportation,Corée du Sud,MAI 2025,222.0,%,9,musa,True,True,False,True,row-only,review,222.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Corée du Sud,JUIN 2025,299.3,%,9,musa,True,True,False,True,row-only,review,299.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Corée du Sud,JUIL. 2026,299.3,%,9,musa,True,True,False,True,row-only,review,299.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Corée du Sud,Variation mensuelle JUIL./JUIN,410.0,%,9,musa,True,True,False,True,row-only,review,410.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Corée du Sud,Variation JUIL./JUIL.,37.0,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Corée du Sud,Variation CUM.,151.0,%,9,musa,True,True,False,True,row-only,review,151.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Corée du Sud,Contribution,45.9,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Crustacés,Poids à la variation,113.0,%,9,musa,True,True,False,True,absent,review,"113 est hors de la plage plausible pour variation_indice_prix_exportation | 113 n'est nulle part sur la ligne « Crustacés » ; cette ligne contient [113176.2, 131.0, 118.3, 123.8, 121.2, -2.1]"
+variation_indice_prix_exportation,Crustacés,AVRIL 2025,176.2,%,9,musa,True,True,False,True,absent,review,"176.2 est hors de la plage plausible pour variation_indice_prix_exportation | 176.2 n'est nulle part sur la ligne « Crustacés » ; cette ligne contient [113176.2, 131.0, 118.3, 123.8, 121.2, -2.1]"
+variation_indice_prix_exportation,Crustacés,MAI 2025,131.0,%,9,musa,True,True,False,True,row-only,review,131.0 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Crustacés,JUIN 2025,118.3,%,9,musa,True,True,False,True,row-only,review,118.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Crustacés,JUIL. 2026,123.8,%,9,musa,True,True,False,True,row-only,review,123.8 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Crustacés,Variation mensuelle JUIL./JUIN,121.2,%,9,musa,True,True,False,True,row-only,review,121.2 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Crustacés,Variation JUIL./JUIL.,-2.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Crustacés,Variation CUM.,-31.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Crustacés,Contribution,-5.8,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Espagne,Poids à la variation,91.0,%,9,musa,True,True,True,True,absent,review,"91 n'est nulle part sur la ligne « Espagne » ; cette ligne contient [91195.9, 145.1, 127.5, 136.3, 136.3, 0.0]"
+variation_indice_prix_exportation,Espagne,AVRIL 2025,195.9,%,9,musa,True,True,False,True,absent,review,"195.9 est hors de la plage plausible pour variation_indice_prix_exportation | 195.9 n'est nulle part sur la ligne « Espagne » ; cette ligne contient [91195.9, 145.1, 127.5, 136.3, 136.3, 0.0]"
+variation_indice_prix_exportation,Espagne,MAI 2025,145.1,%,9,musa,True,True,False,True,row-only,review,145.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Espagne,JUIN 2025,127.5,%,9,musa,True,True,False,True,row-only,review,127.5 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Espagne,JUIL. 2026,136.3,%,9,musa,True,True,False,True,row-only,review,136.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Espagne,Variation mensuelle JUIL./JUIN,136.3,%,9,musa,True,True,False,True,row-only,review,136.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Espagne,Variation JUIL./JUIL.,0.0,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Espagne,Variation CUM.,-30.4,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Espagne,Contribution,-3.8,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,Poids à la variation,564.0,%,9,musa,True,True,False,True,absent,review,"564 est hors de la plage plausible pour variation_indice_prix_exportation | 564 n'est nulle part sur la ligne « PRODUITS DU REGNE VEGETAL » ; cette ligne contient [564144.4, 130.5, 132.7, 130.6, 130.5, 0.0]"
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,AVRIL 2025,144.4,%,9,musa,True,True,False,True,absent,review,"144.4 est hors de la plage plausible pour variation_indice_prix_exportation | 144.4 n'est nulle part sur la ligne « PRODUITS DU REGNE VEGETAL » ; cette ligne contient [564144.4, 130.5, 132.7, 130.6, 130.5, 0.0]"
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,MAI 2025,130.5,%,9,musa,True,True,False,True,row-only,review,130.5 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,JUIN 2025,132.7,%,9,musa,True,True,False,True,row-only,review,132.7 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,JUIL. 2026,130.6,%,9,musa,True,True,False,True,row-only,review,130.6 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,Variation mensuelle JUIL./JUIN,130.5,%,9,musa,True,True,False,True,row-only,review,130.5 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,Variation JUIL./JUIL.,0.0,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,Variation CUM.,-9.6,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,PRODUITS DU REGNE VEGETAL,Contribution,-1.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Riz,Poids à la variation,162.0,%,9,musa,True,True,False,True,absent,review,"162 est hors de la plage plausible pour variation_indice_prix_exportation | 162 n'est nulle part sur la ligne « Riz » ; cette ligne contient [162180.1, 141.2, 149.4, 148.8, 147.3, -1.1]"
+variation_indice_prix_exportation,Riz,AVRIL 2025,180.1,%,9,musa,True,True,False,True,absent,review,"180.1 est hors de la plage plausible pour variation_indice_prix_exportation | 180.1 n'est nulle part sur la ligne « Riz » ; cette ligne contient [162180.1, 141.2, 149.4, 148.8, 147.3, -1.1]"
+variation_indice_prix_exportation,Riz,MAI 2025,141.2,%,9,musa,True,True,False,True,row-only,review,141.2 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Riz,JUIN 2025,149.4,%,9,musa,True,True,False,True,row-only,review,149.4 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Riz,JUIL. 2026,148.8,%,9,musa,True,True,False,True,row-only,review,148.8 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Riz,Variation mensuelle JUIL./JUIN,147.3,%,9,musa,True,True,False,True,row-only,review,147.3 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Riz,Variation JUIL./JUIL.,-1.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Riz,Variation CUM.,-18.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Riz,Contribution,-7.7,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mauritanie,Poids à la variation,7.0,%,9,musa,True,True,True,True,absent,review,"7 n'est nulle part sur la ligne « Mauritanie » ; cette ligne contient [7136.2, 185.1, 164.2, 183.4, 107.9, -41.2]"
+variation_indice_prix_exportation,Mauritanie,AVRIL 2025,136.2,%,9,musa,True,True,False,True,absent,review,"136.2 est hors de la plage plausible pour variation_indice_prix_exportation | 136.2 n'est nulle part sur la ligne « Mauritanie » ; cette ligne contient [7136.2, 185.1, 164.2, 183.4, 107.9, -41.2]"
+variation_indice_prix_exportation,Mauritanie,MAI 2025,185.1,%,9,musa,True,True,False,True,row-only,review,185.1 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mauritanie,JUIN 2025,164.2,%,9,musa,True,True,False,True,row-only,review,164.2 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mauritanie,JUIL. 2026,183.4,%,9,musa,True,True,False,True,row-only,review,183.4 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mauritanie,Variation mensuelle JUIL./JUIN,107.9,%,9,musa,True,True,False,True,row-only,review,107.9 est hors de la plage plausible pour variation_indice_prix_exportation
+variation_indice_prix_exportation,Mauritanie,Variation JUIL./JUIL.,-41.2,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mauritanie,Variation CUM.,-20.8,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Mauritanie,Contribution,12.1,%,9,musa,True,True,True,True,row-only,verified,
+variation_indice_prix_exportation,Guinée Bisau,Poids à la variation,10.0,%,9,musa,True,True,True,True,absent,review,"10 n'est nulle part sur la ligne « Guinée Bisau » ; cette ligne contient [10119.5, 204.0, 174.8, 153.0, 177.3, 15.9]"
+variation_indice_prix_exportation,Guinée Bisau,AVRIL 2025,119.5,%,9,musa,True,True,False,True,absent,review,"119.5 est hors de la plage plausible pour variation_indice_prix_exportation | 119.5 n'est nulle part sur la ligne « Guinée Bisau » ; cette ligne contient [10119.5, 204.0, 174.8, 153.0, 177.3, 15.9]"
+variation_indice_prix_exportation,Guinée Bisau,MAI 2025,204.0,%,9,musa,True,True,False,True,row-only,review,204.0 est hors de la plage plausible pour variation_indice_prix_exportation
