@@ -1,18 +1,18 @@
 # Limites
 
-Plusieurs valeurs enregistrées pour l’indice des prix à la consommation rural (136,7 ; 137,8 ; 153,9 ; 165,2 ; 165,9 ; 168,0 ; 174,3 et 175,4) se situent hors de la plage plausible et font l’objet d’une vérification.
+10 n'est nulle part sur la ligne « Guinée Bisau » ; cette ligne contient [10119.5, 204.0, 174.8, 153.0, 177.3, 15.9] 100.5 est hors de la plage plausible pour variation_indice_prix_exportation 100.5 n'est nulle part sur la ligne « Viêtnam » ; cette ligne contient [78100.5, 79.1, 74.1, 77.4, 94.1, 21.6] 101.1 est hors de la plage plausible pour indice_prix_importation 101.2 est hors de la plage plausible pour indice_prix_importation 101.6 est hors de la plage plausible pour indice_prix_importation 101.6 n'est nulle part sur la ligne « Japon » ; cette ligne contient [46101.6, 99.2, 112.3, 113.2, 112.8, -0.4] 101.7 est hors de la plage plausible pour indice_prix_importation
 
 ## Limitations
 
-Several recorded values for the Consumer Price Index, Rural Index (136.7, 137.8, 153.9, 165.2, 165.9, 168.0, 174.3, and 175.4) fall outside the plausible range and are subject to verification.
+10 n'est nulle part sur la ligne « Guinée Bisau » ; cette ligne contient [10119.5, 204.0, 174.8, 153.0, 177.3, 15.9] 100.5 est hors de la plage plausible pour variation_indice_prix_exportation 100.5 n'est nulle part sur la ligne « Viêtnam » ; cette ligne contient [78100.5, 79.1, 74.1, 77.4, 94.1, 21.6] 101.1 est hors de la plage plausible pour indice_prix_importation 101.2 est hors de la plage plausible pour indice_prix_importation 101.6 est hors de la plage plausible pour indice_prix_importation 101.6 n'est nulle part sur la ligne « Japon » ; cette ligne contient [46101.6, 99.2, 112.3, 113.2, 112.8, -0.4] 101.7 est hors de la plage plausible pour indice_prix_importation
 
 ## Contrôles automatiques de cette exécution
 
 - 0 cellules ont été écartées faute de preuve sur la page dont
   elles se réclamaient.
-- 90 cellules sont publiées avec une mention visible et n'ont
+- 192 cellules sont publiées avec une mention visible et n'ont
   **pas** été confirmées par un statisticien.
-- Seules les pages 10, 11, 12 de la publication source ont été traitées. Tout le reste de
+- Seules les pages 7, 8, 9 de la publication source ont été traitées. Tout le reste de
   son contenu est absent de ce tableau de bord, et son absence ici ne signifie pas son
   absence là-bas.
 - Les contrôles automatiques établissent qu'un chiffre est *cohérent avec la source*. Ils
