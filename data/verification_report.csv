@@ -1,0 +1,415 @@
+indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
+cpi_urban,GENERAL INDEX,Weights,100.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,Aug-25,188.3,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,Jul-26,214.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,Aug-26,217.8,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,on Jul. 2026,1.8,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,on Aug. 2025,15.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,1 month,1.8,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,GENERAL INDEX,12 months,15.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,Weights,27.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,Aug-25,241.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,Jul-26,270.7,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,Aug-26,280.7,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,on Jul. 2026,3.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,on Aug. 2025,16.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,1 month,1.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Food and non-alcoholic beverages,12 months,5.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,Aug-25,197.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,Jul-26,210.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,Aug-26,211.3,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,on Jul. 2026,0.6,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,on Aug. 2025,7.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Bread and cereals,12 months,0.4,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,Weights,2.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,Aug-25,297.5,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,Jul-26,398.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,Aug-26,406.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,on Jul. 2026,2.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,on Aug. 2025,36.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,1 month,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Meat,12 months,1.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,Aug-25,216.8,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,Jul-26,227.9,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,Aug-26,228.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,on Jul. 2026,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,on Aug. 2025,5.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Milk cheese and eggs,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,Weights,9.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,Aug-25,269.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,Jul-26,313.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,Aug-26,336.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,on Jul. 2026,7.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,on Aug. 2025,24.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,1 month,0.9,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Vegetables,12 months,3.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,Aug-25,208.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,Jul-26,223.9,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,Aug-26,225.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,on Jul. 2026,0.8,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,on Aug. 2025,8.4,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Non-alcoholic beverages,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,Aug-25,261.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,Jul-26,283.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,Aug-26,286.9,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,on Jul. 2026,1.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,on Aug. 2025,9.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,1 month,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Alcoholic beverages tobacco and narcotics,12 months,0.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,Weights,5.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,Aug-25,168.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,Jul-26,176.9,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,Aug-26,177.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,on Aug. 2025,5.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Clothing and footwear,12 months,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",Weights,21.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",Aug-25,144.3,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",Jul-26,173.5,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",Aug-26,173.8,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",on Aug. 2025,20.4,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,"Housing water, electricity, gas and other fuels",12 months,3.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,Weights,4.0,%,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,Aug-25,173.4,index,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,Jul-26,183.2,index,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,Aug-26,184.3,index,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,on Jul. 2026,0.6,%,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,on Aug. 2025,6.3,%,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,1 month,0.0,%,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Furnishings household equipment and routine household maintenance,12 months,0.2,%,10,musa,True,True,True,True,no-row,verified,
+cpi_urban,Health,Weights,1.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,Aug-25,193.4,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,Jul-26,195.5,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,Aug-26,195.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,on Jul. 2026,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,on Aug. 2025,1.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Health,12 months,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,Weights,12.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,Aug-25,201.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,Jul-26,249.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,Aug-26,249.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,on Aug. 2025,24.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Transport,12 months,3.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,Aug-25,114.3,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,Jul-26,118.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,Aug-26,117.9,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,on Jul. 2026,-0.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,on Aug. 2025,3.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Communication,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,Aug-25,154.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,Jul-26,162.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,Aug-26,162.6,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,on Jul. 2026,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,on Aug. 2025,5.6,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Recreation and culture,12 months,0.1,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,Weights,3.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,Aug-25,155.5,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,Jul-26,176.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,Aug-26,176.2,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,on Jul. 2026,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,on Aug. 2025,13.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,1 month,0.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Education,12 months,0.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,Weights,9.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,Aug-25,172.1,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,Jul-26,195.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,Aug-26,199.0,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,on Jul. 2026,2.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,on Aug. 2025,15.6,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,1 month,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Restaurants and hotels,12 months,1.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,Weights,6.0,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,Aug-25,147.1,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,Jul-26,160.5,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,Aug-26,166.7,index,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,on Jul. 2026,3.9,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,on Aug. 2025,13.3,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,1 month,0.2,%,10,musa,True,True,True,True,row-only,verified,
+cpi_urban,Miscellaneous goods and services,12 months,0.7,%,10,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,GENERAL INDEX,Aug-25,221.2,%,11,musa,True,True,False,True,row-only,review,221.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,GENERAL INDEX,Jul-26,248.9,%,11,musa,True,True,False,True,row-only,review,248.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,GENERAL INDEX,Aug-26,256.6,%,11,musa,True,True,False,True,row-only,review,256.6 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,GENERAL INDEX,on Jul. 2026,3.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,GENERAL INDEX,on Aug. 2025,16.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,GENERAL INDEX,1 month,3.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,GENERAL INDEX,12 months,16.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Food and non-alcoholic beverages,Aug-25,257.4,%,11,musa,True,True,False,True,row-only,review,257.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Food and non-alcoholic beverages,Jul-26,286.4,%,11,musa,True,True,False,True,row-only,review,286.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Food and non-alcoholic beverages,Aug-26,300.7,%,11,musa,True,True,False,True,row-only,review,300.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Food and non-alcoholic beverages,on Jul. 2026,5.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Food and non-alcoholic beverages,on Aug. 2025,16.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Food and non-alcoholic beverages,1 month,2.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Food and non-alcoholic beverages,12 months,9.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Bread and cereals,Aug-25,231.8,%,11,musa,True,True,False,True,row-only,review,231.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Bread and cereals,Jul-26,235.5,%,11,musa,True,True,False,True,row-only,review,235.5 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Bread and cereals,Aug-26,238.3,%,11,musa,True,True,False,True,row-only,review,238.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Bread and cereals,on Jul. 2026,1.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Bread and cereals,on Aug. 2025,2.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Bread and cereals,1 month,0.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Bread and cereals,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Meat,Aug-25,333.9,%,11,musa,True,True,False,True,row-only,review,333.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Meat,Jul-26,417.8,%,11,musa,True,True,False,True,row-only,review,417.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Meat,Aug-26,430.3,%,11,musa,True,True,False,True,row-only,review,430.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Meat,on Jul. 2026,3.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Meat,on Aug. 2025,28.9,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Meat,1 month,0.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Meat,12 months,0.7,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Milk cheese and eggs,Aug-25,226.2,%,11,musa,True,True,False,True,row-only,review,226.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Milk cheese and eggs,Jul-26,233.6,%,11,musa,True,True,False,True,row-only,review,233.6 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Milk cheese and eggs,Aug-26,237.3,%,11,musa,True,True,False,True,row-only,review,237.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Milk cheese and eggs,on Jul. 2026,1.6,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Milk cheese and eggs,on Aug. 2025,4.9,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Milk cheese and eggs,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Milk cheese and eggs,12 months,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Vegetables,Aug-25,267.6,%,11,musa,True,True,False,True,row-only,review,267.6 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Vegetables,Jul-26,306.9,%,11,musa,True,True,False,True,row-only,review,306.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Vegetables,Aug-26,326.6,%,11,musa,True,True,False,True,row-only,review,326.6 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Vegetables,on Jul. 2026,6.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Vegetables,on Aug. 2025,22.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Vegetables,1 month,2.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Vegetables,12 months,6.9,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Non-alcoholic beverages,Aug-25,204.3,%,11,musa,True,True,False,True,row-only,review,204.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Non-alcoholic beverages,Jul-26,221.9,%,11,musa,True,True,False,True,row-only,review,221.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Non-alcoholic beverages,Aug-26,223.2,%,11,musa,True,True,False,True,row-only,review,223.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Non-alcoholic beverages,on Jul. 2026,0.6,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Non-alcoholic beverages,on Aug. 2025,9.3,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Non-alcoholic beverages,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Non-alcoholic beverages,12 months,0.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,Aug-25,243.5,%,11,musa,True,True,False,True,row-only,review,243.5 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,Jul-26,268.8,%,11,musa,True,True,False,True,row-only,review,268.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,Aug-26,261.8,%,11,musa,True,True,False,True,row-only,review,261.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,-2.6,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,7.5,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,1 month,-0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Clothing and footwear,Aug-25,176.9,%,11,musa,True,True,False,True,row-only,review,176.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Clothing and footwear,Jul-26,184.5,%,11,musa,True,True,False,True,row-only,review,184.5 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Clothing and footwear,Aug-26,185.4,%,11,musa,True,True,False,True,row-only,review,185.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Clothing and footwear,on Jul. 2026,0.5,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Clothing and footwear,on Aug. 2025,4.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Clothing and footwear,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Clothing and footwear,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,"Housing water, electricity, gas and other fuels",Aug-25,168.0,%,11,musa,True,True,False,True,row-only,review,168.0 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,"Housing water, electricity, gas and other fuels",Jul-26,202.4,%,11,musa,True,True,False,True,row-only,review,202.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,"Housing water, electricity, gas and other fuels",Aug-26,200.7,%,11,musa,True,True,False,True,row-only,review,200.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,-0.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,19.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,"Housing water, electricity, gas and other fuels",1 month,-0.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,"Housing water, electricity, gas and other fuels",12 months,2.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Furnishings household equipment and routine household maintenance,Aug-25,175.4,%,11,musa,True,True,False,True,no-row,review,175.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Furnishings household equipment and routine household maintenance,Jul-26,195.3,%,11,musa,True,True,False,True,no-row,review,195.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Furnishings household equipment and routine household maintenance,Aug-26,199.2,%,11,musa,True,True,False,True,no-row,review,199.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,2.0,%,11,musa,True,True,True,True,no-row,verified,
+cpi_rural_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,13.6,%,11,musa,True,True,True,True,no-row,verified,
+cpi_rural_index,Furnishings household equipment and routine household maintenance,1 month,0.1,%,11,musa,True,True,True,True,no-row,verified,
+cpi_rural_index,Furnishings household equipment and routine household maintenance,12 months,0.3,%,11,musa,True,True,True,True,no-row,verified,
+cpi_rural_index,Health,Aug-25,180.2,%,11,musa,True,True,False,True,row-only,review,180.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Health,Jul-26,187.6,%,11,musa,True,True,False,True,row-only,review,187.6 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Health,Aug-26,187.7,%,11,musa,True,True,False,True,row-only,review,187.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Health,on Jul. 2026,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Health,on Aug. 2025,4.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Health,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Health,12 months,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Transport,Aug-25,136.7,%,11,musa,True,True,False,True,row-only,review,136.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Transport,Jul-26,189.7,%,11,musa,True,True,False,True,row-only,review,189.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Transport,Aug-26,189.8,%,11,musa,True,True,False,True,row-only,review,189.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Transport,on Jul. 2026,0.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Transport,on Aug. 2025,38.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Transport,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Transport,12 months,1.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Communication,Aug-25,137.8,%,11,musa,True,True,False,True,row-only,review,137.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Communication,Jul-26,137.8,%,11,musa,True,True,False,True,row-only,review,137.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Communication,Aug-26,213.3,%,11,musa,True,True,False,True,row-only,review,213.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Communication,on Jul. 2026,54.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Communication,on Aug. 2025,54.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Communication,1 month,0.5,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Communication,12 months,0.6,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Recreation and culture,Aug-25,174.3,%,11,musa,True,True,False,True,row-only,review,174.3 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Recreation and culture,Jul-26,207.4,%,11,musa,True,True,False,True,row-only,review,207.4 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Recreation and culture,Aug-26,208.5,%,11,musa,True,True,False,True,row-only,review,208.5 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Recreation and culture,on Jul. 2026,0.5,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Recreation and culture,on Aug. 2025,19.7,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Recreation and culture,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Recreation and culture,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Education,Aug-25,238.8,%,11,musa,True,True,False,True,row-only,review,238.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Education,Jul-26,263.1,%,11,musa,True,True,False,True,row-only,review,263.1 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Education,Aug-26,263.1,%,11,musa,True,True,False,True,row-only,review,263.1 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Education,on Jul. 2026,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Education,on Aug. 2025,10.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Education,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Education,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Restaurants and hotels,Aug-25,209.8,%,11,musa,True,True,False,True,row-only,review,209.8 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Restaurants and hotels,Jul-26,231.1,%,11,musa,True,True,False,True,row-only,review,231.1 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Restaurants and hotels,Aug-26,233.7,%,11,musa,True,True,False,True,row-only,review,233.7 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Restaurants and hotels,on Jul. 2026,1.1,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Restaurants and hotels,on Aug. 2025,11.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Restaurants and hotels,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Restaurants and hotels,12 months,0.5,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Miscellaneous goods and services,Aug-25,153.9,%,11,musa,True,True,False,True,row-only,review,153.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Miscellaneous goods and services,Jul-26,165.2,%,11,musa,True,True,False,True,row-only,review,165.2 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Miscellaneous goods and services,Aug-26,165.9,%,11,musa,True,True,False,True,row-only,review,165.9 est hors de la plage plausible pour cpi_rural_index
+cpi_rural_index,Miscellaneous goods and services,on Jul. 2026,0.4,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Miscellaneous goods and services,on Aug. 2025,7.8,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Miscellaneous goods and services,1 month,0.0,%,11,musa,True,True,True,True,row-only,verified,
+cpi_rural_index,Miscellaneous goods and services,12 months,0.2,%,11,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,Weights,100.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,Aug-25,208.3,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,Jul-26,235.3,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,Aug-26,241.4,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,on Jul. 2026,2.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,on Aug. 2025,15.9,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,GENERAL INDEX,1 month,2.6,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,GENERAL INDEX,12 months,15.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Food and non-alcoholic beverages,Weights,39.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,Aug-25,254.4,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,Jul-26,283.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,Aug-26,296.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,on Jul. 2026,4.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,on Aug. 2025,16.7,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Food and non-alcoholic beverages,1 month,2.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Food and non-alcoholic beverages,12 months,7.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9 | cellule à relire : 1.4 est imprimé page 12 et comblerait l'écart
+cpi_index,Bread and cereals,Weights,7.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,Aug-25,221.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,Jul-26,228.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,Aug-26,231.0,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,on Jul. 2026,1.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,on Aug. 2025,4.2,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Bread and cereals,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -1.6 est imprimé page 12 et comblerait l'écart
+cpi_index,Bread and cereals,12 months,0.3,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Meat,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,Aug-25,316.9,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,Jul-26,409.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,Aug-26,420.0,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,on Jul. 2026,2.5,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,on Aug. 2025,32.5,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Meat,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -1.6 est imprimé page 12 et comblerait l'écart
+cpi_index,Meat,12 months,0.9,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Milk cheese and eggs,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,Aug-25,220.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,Jul-26,230.1,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,Aug-26,232.0,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,on Jul. 2026,0.8,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,on Aug. 2025,5.1,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Milk cheese and eggs,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Milk cheese and eggs,12 months,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Vegetables,Weights,18.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,Aug-25,268.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,Jul-26,308.9,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,Aug-26,329.2,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,on Jul. 2026,6.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,on Aug. 2025,22.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Vegetables,1 month,1.6,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6 | cellule à relire : -0.1 est imprimé page 12 et comblerait l'écart
+cpi_index,Vegetables,12 months,5.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Non-alcoholic beverages,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,Aug-25,205.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,Jul-26,222.2,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,Aug-26,223.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,on Jul. 2026,0.7,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,on Aug. 2025,8.8,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Non-alcoholic beverages,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Non-alcoholic beverages,12 months,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Alcoholic beverages tobacco and narcotics,Weights,7.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,Aug-25,248.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,Jul-26,272.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,Aug-26,269.0,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,-1.4,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,8.2,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Alcoholic beverages tobacco and narcotics,1 month,-0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Clothing and footwear,Weights,5.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,Aug-25,173.1,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,Jul-26,181.1,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,Aug-26,181.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,on Jul. 2026,0.4,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,on Aug. 2025,5.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Clothing and footwear,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Clothing and footwear,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,"Housing water, electricity, gas and other fuels",Weights,18.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",Aug-25,155.3,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",Jul-26,186.9,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",Aug-26,186.1,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,-0.4,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,19.9,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,"Housing water, electricity, gas and other fuels",1 month,-0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,"Housing water, electricity, gas and other fuels",12 months,2.7,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Furnishings household equipment and routine household maintenance,Weights,3.0,%,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,Aug-25,174.1,Index,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,Jul-26,189.3,Index,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,Aug-26,191.8,Index,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,1.4,%,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,10.2,%,12,musa,True,True,True,True,no-row,verified,
+cpi_index,Furnishings household equipment and routine household maintenance,1 month,0.0,Index,12,musa,True,True,True,False,no-row,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Furnishings household equipment and routine household maintenance,12 months,0.3,Index,12,musa,True,True,True,False,no-row,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Health,Weights,1.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,Aug-25,186.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,Jul-26,191.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,Aug-26,191.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,on Jul. 2026,0.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,on Aug. 2025,2.7,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Health,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Health,12 months,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Transport,Weights,8.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,Aug-25,180.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,Jul-26,230.3,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,Aug-26,230.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,on Jul. 2026,0.1,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,on Aug. 2025,27.5,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Transport,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Transport,12 months,1.8,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Communication,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,Aug-25,123.3,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,Jul-26,125.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,Aug-26,157.4,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,on Jul. 2026,25.3,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,on Aug. 2025,27.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Communication,1 month,0.3,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Communication,12 months,0.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Recreation and culture,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,Aug-25,161.8,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,Jul-26,179.9,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,Aug-26,180.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,on Jul. 2026,0.4,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,on Aug. 2025,11.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Recreation and culture,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Recreation and culture,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Education,Weights,2.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,Aug-25,193.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,Jul-26,216.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,Aug-26,216.6,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,on Jul. 2026,0.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,on Aug. 2025,11.8,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Education,1 month,0.0,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Education,12 months,0.2,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Restaurants and hotels,Weights,6.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,Aug-25,188.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,Jul-26,211.0,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,Aug-26,214.5,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,on Jul. 2026,1.6,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,on Aug. 2025,13.7,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Restaurants and hotels,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Restaurants and hotels,12 months,0.8,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
+cpi_index,Miscellaneous goods and services,Weights,5.0,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,Aug-25,149.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,Jul-26,162.1,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,Aug-26,165.7,Index,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,on Jul. 2026,2.3,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,on Aug. 2025,10.7,%,12,musa,True,True,True,True,row-only,verified,
+cpi_index,Miscellaneous goods and services,1 month,0.1,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 4.3 mais le document publie 2.6
+cpi_index,Miscellaneous goods and services,12 months,0.4,Index,12,musa,True,True,True,False,row-only,review,les parties somment à 22.4 mais le document publie 15.9
