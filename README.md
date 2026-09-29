@@ -1,12 +1,6 @@
-**Tableau de bord en ligne : <https://bigmoussa.github.io/stg17-dashboard/>**
+# Tableau de bord statistique
 
-Reconstruit en exécutant le notebook de ce dépôt sur la publication source. Dernière publication le 2026-09-29.
-
----
-
-# Indice des prix à la consommation
-
-Tableau de bord bilingue (EN/FR) construit à partir de **STATISTICS OF RWANDA**, pages 10, 11, 12.
+Tableau de bord bilingue (EN/FR) construit à partir de **(Juillet 2026)**, pages 7, 8, 9.
 
 Built during the STG17 technical workshop *Emerging Issues, Emerging Practice*
 (African Development Bank / AU STATAFRIC), lab 02 — from a statistical document
@@ -39,8 +33,8 @@ Results of the run that produced this page:
 
 | Outcome | Cells |
 |---|---|
-| verified | 324 |
-| published but flagged | 90 |
+| verified | 263 |
+| published but flagged | 192 |
 | discarded | 0 |
 
 ## Reproducing this
