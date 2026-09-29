@@ -1,3 +1,9 @@
+**Tableau de bord en ligne : <https://bigmoussa.github.io/stg17-dashboard/>**
+
+Reconstruit en exécutant le notebook de ce dépôt sur la publication source. Dernière publication le 2026-09-29.
+
+---
+
 # Indice des prix à la consommation
 
 Tableau de bord bilingue (EN/FR) construit à partir de **STATISTICS OF RWANDA**, pages 10, 11, 12.
