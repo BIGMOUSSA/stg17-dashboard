@@ -1,3 +1,9 @@
+**Tableau de bord en ligne : <https://bigmoussa.github.io/stg17-dashboard/>**
+
+Reconstruit en exécutant le notebook de ce dépôt sur la publication source. Dernière publication le 2026-09-29.
+
+---
+
 # Tableau de bord statistique
 
 Tableau de bord bilingue (EN/FR) construit à partir de **(Juillet 2026)**, pages 7, 8, 9.
